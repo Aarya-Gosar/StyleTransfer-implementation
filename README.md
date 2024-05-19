@@ -1,4 +1,4 @@
-![germany](https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/5a04cc12-61cd-4f8c-b6fd-703c2e76df63)# StyleTransfer-implementation
+# StyleTransfer-implementation
 
 Based on [this](https://paperswithcode.com/paper/a-neural-algorithm-of-artistic-style) research paper.
 
