@@ -8,7 +8,7 @@ This is a Pytorch implementation for the same using the pretrained VGG-19 model 
 
 ## Results:
   content:
-  ![germany](https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/50d024fb-fb79-463f-800d-96554c932824)
+  ![germany](https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/50d024fb-fb79-463f-800d-96554c932824 = 512x512)
 
   Style:
   
@@ -28,6 +28,7 @@ This is a Pytorch implementation for the same using the pretrained VGG-19 model 
 
   
   Our insti:
+  
   ![anime-6+iitm](https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/f736b1e7-66a4-4f07-838b-ea55ab99e757)
 
   
