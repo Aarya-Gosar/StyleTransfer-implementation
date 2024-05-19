@@ -28,7 +28,8 @@ This is a Pytorch implementation for the same using the pretrained VGG-19 model 
 
   
   Our insti:
+  ![anime-6+iitm](https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/f736b1e7-66a4-4f07-838b-ea55ab99e757)
+
   
-  ![anime-6+iitm](https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/08352777-e293-4199-9ad6-0883d0e557e4)
 
 
