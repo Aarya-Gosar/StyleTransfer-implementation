@@ -7,6 +7,10 @@ This is a Pytorch implementation for the same using the pretrained VGG-19 model 
 
 
 ## Results:
+  Our insti:
+  
+  <img src="https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/f736b1e7-66a4-4f07-838b-ea55ab99e757" width="512" height="400"/>
+  
   content:
   
   <img src="https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/50d024fb-fb79-463f-800d-96554c932824" width="512" height="400"/>
@@ -28,9 +32,7 @@ This is a Pytorch implementation for the same using the pretrained VGG-19 model 
   <img src="https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/6c717271-c0ca-4a85-9053-f1fa22115d72" width="512" height="400"/>
 
   
-  Our insti:
-  
-  <img src="https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/f736b1e7-66a4-4f07-838b-ea55ab99e757" width="512" height="400"/>
+
 
 
   
