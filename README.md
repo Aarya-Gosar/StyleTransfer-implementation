@@ -8,7 +8,7 @@ This is a Pytorch implementation for the same using the pretrained VGG-19 model 
 
 ## Results:
   content:
-  ![germany](https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/50d024fb-fb79-463f-800d-96554c932824 = 512x512)
+  <img src="https://github.com/Aarya-Gosar/StyleTransfer-implementation/assets/69315856/50d024fb-fb79-463f-800d-96554c932824" width="256" height="256"/>
 
   Style:
   
